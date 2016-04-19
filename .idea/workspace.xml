@@ -4,68 +4,10 @@
     <list default="true" id="f37fe226-409f-4623-825d-f67827680c29" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/MovieController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/MovieController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/App/Console/Commands/Inspire.html" afterPath="$PROJECT_DIR$/build/App/Console/Commands/Inspire.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/App/Console/Kernel.html" afterPath="$PROJECT_DIR$/build/App/Console/Kernel.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/App/Events/Event.html" afterPath="$PROJECT_DIR$/build/App/Events/Event.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/App/Exceptions/Handler.html" afterPath="$PROJECT_DIR$/build/App/Exceptions/Handler.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/App/Genre.html" afterPath="$PROJECT_DIR$/build/App/Genre.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/App/Http/Controllers/Auth/AuthController.html" afterPath="$PROJECT_DIR$/build/App/Http/Controllers/Auth/AuthController.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/App/Http/Controllers/Auth/PasswordController.html" afterPath="$PROJECT_DIR$/build/App/Http/Controllers/Auth/PasswordController.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/App/Http/Controllers/Controller.html" afterPath="$PROJECT_DIR$/build/App/Http/Controllers/Controller.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/App/Http/Controllers/FrontController.html" afterPath="$PROJECT_DIR$/build/App/Http/Controllers/FrontController.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/App/Http/Controllers/MovieController.html" afterPath="$PROJECT_DIR$/build/App/Http/Controllers/MovieController.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/App/Http/Kernel.html" afterPath="$PROJECT_DIR$/build/App/Http/Kernel.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/App/Http/Middleware/Authenticate.html" afterPath="$PROJECT_DIR$/build/App/Http/Middleware/Authenticate.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/App/Http/Middleware/EncryptCookies.html" afterPath="$PROJECT_DIR$/build/App/Http/Middleware/EncryptCookies.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/App/Http/Middleware/RedirectIfAuthenticated.html" afterPath="$PROJECT_DIR$/build/App/Http/Middleware/RedirectIfAuthenticated.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/App/Http/Middleware/VerifyCsrfToken.html" afterPath="$PROJECT_DIR$/build/App/Http/Middleware/VerifyCsrfToken.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/App/Http/Requests/Request.html" afterPath="$PROJECT_DIR$/build/App/Http/Requests/Request.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/App/Jobs/Job.html" afterPath="$PROJECT_DIR$/build/App/Jobs/Job.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/App/Movie.html" afterPath="$PROJECT_DIR$/build/App/Movie.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/App/Providers/AppServiceProvider.html" afterPath="$PROJECT_DIR$/build/App/Providers/AppServiceProvider.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/App/Providers/AuthServiceProvider.html" afterPath="$PROJECT_DIR$/build/App/Providers/AuthServiceProvider.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/App/Providers/EventServiceProvider.html" afterPath="$PROJECT_DIR$/build/App/Providers/EventServiceProvider.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/App/Providers/RouteServiceProvider.html" afterPath="$PROJECT_DIR$/build/App/Providers/RouteServiceProvider.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/App/User.html" afterPath="$PROJECT_DIR$/build/App/User.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes.html" afterPath="$PROJECT_DIR$/build/classes.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/build/css/bootstrap-theme.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/build/css/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/css/sami.css" afterPath="$PROJECT_DIR$/build/css/sami.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doc-index.html" afterPath="$PROJECT_DIR$/build/doc-index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/build/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/index.html" afterPath="$PROJECT_DIR$/build/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/interfaces.html" afterPath="$PROJECT_DIR$/build/interfaces.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/build/js/bootstrap.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/jquery-1.11.1.min.js" afterPath="$PROJECT_DIR$/build/js/jquery-1.11.1.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/typeahead.min.js" afterPath="$PROJECT_DIR$/build/js/typeahead.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/namespaces.html" afterPath="$PROJECT_DIR$/build/namespaces.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/renderer.index" afterPath="$PROJECT_DIR$/build/renderer.index" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/sami.js" afterPath="$PROJECT_DIR$/build/sami.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/search.html" afterPath="$PROJECT_DIR$/build/search.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/traits.html" afterPath="$PROJECT_DIR$/build/traits.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/store/c_01e99dda80902c23f7e96a35e3d48c16.json" afterPath="$PROJECT_DIR$/cache/store/c_01e99dda80902c23f7e96a35e3d48c16.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/store/c_03983e817b222b1e85b17428a718adf3.json" afterPath="$PROJECT_DIR$/cache/store/c_03983e817b222b1e85b17428a718adf3.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/store/c_17b1a8f5cd759a0a98f07e2cd1ce7536.json" afterPath="$PROJECT_DIR$/cache/store/c_17b1a8f5cd759a0a98f07e2cd1ce7536.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/store/c_21dabb729c1104b766a4b3000fb044f3.json" afterPath="$PROJECT_DIR$/cache/store/c_21dabb729c1104b766a4b3000fb044f3.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/store/c_4443ba2d6a90af6d04bb316e3f6f2783.json" afterPath="$PROJECT_DIR$/cache/store/c_4443ba2d6a90af6d04bb316e3f6f2783.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/store/c_5044e18ac469ba1eb8674deb2a962a71.json" afterPath="$PROJECT_DIR$/cache/store/c_5044e18ac469ba1eb8674deb2a962a71.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/store/c_580ecdddcd7833ba19a469eb65abfdaf.json" afterPath="$PROJECT_DIR$/cache/store/c_580ecdddcd7833ba19a469eb65abfdaf.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/store/c_58e8577134e1f08f210f3629f13dd517.json" afterPath="$PROJECT_DIR$/cache/store/c_58e8577134e1f08f210f3629f13dd517.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/store/c_5d2578fc97737abe914a82770ccebc26.json" afterPath="$PROJECT_DIR$/cache/store/c_5d2578fc97737abe914a82770ccebc26.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/store/c_6b0452bf492e36ec662e80c4099b3b84.json" afterPath="$PROJECT_DIR$/cache/store/c_6b0452bf492e36ec662e80c4099b3b84.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/store/c_6c2cb7bc7ecda85e8d25c77111d79197.json" afterPath="$PROJECT_DIR$/cache/store/c_6c2cb7bc7ecda85e8d25c77111d79197.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/store/c_75e2ff9a480dee053792487bbaecca5e.json" afterPath="$PROJECT_DIR$/cache/store/c_75e2ff9a480dee053792487bbaecca5e.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/store/c_7a137bc1663286e4b9b9f30c86a6ca1c.json" afterPath="$PROJECT_DIR$/cache/store/c_7a137bc1663286e4b9b9f30c86a6ca1c.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/store/c_7cf48f91e22400fc595ec886f4f5d590.json" afterPath="$PROJECT_DIR$/cache/store/c_7cf48f91e22400fc595ec886f4f5d590.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/store/c_910346ce28c4aee615771d4fcb0e9b8a.json" afterPath="$PROJECT_DIR$/cache/store/c_910346ce28c4aee615771d4fcb0e9b8a.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/store/c_98c58525214c309328da2b12d4d42038.json" afterPath="$PROJECT_DIR$/cache/store/c_98c58525214c309328da2b12d4d42038.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/store/c_bdcc86cca5d35003b06547a13baa5d77.json" afterPath="$PROJECT_DIR$/cache/store/c_bdcc86cca5d35003b06547a13baa5d77.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/store/c_be65beffed9cfa885fdae1de4753e6eb.json" afterPath="$PROJECT_DIR$/cache/store/c_be65beffed9cfa885fdae1de4753e6eb.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/store/c_bec10f9a3d49c881f1354cbdf05dda37.json" afterPath="$PROJECT_DIR$/cache/store/c_bec10f9a3d49c881f1354cbdf05dda37.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/store/c_c3dc28e1d31773878887fc29cc3cb2eb.json" afterPath="$PROJECT_DIR$/cache/store/c_c3dc28e1d31773878887fc29cc3cb2eb.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/store/c_ca4a77711acd8f4ac0ed60007c8d3d15.json" afterPath="$PROJECT_DIR$/cache/store/c_ca4a77711acd8f4ac0ed60007c8d3d15.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/store/c_da2f811f39cbf8138edf426bc201376e.json" afterPath="$PROJECT_DIR$/cache/store/c_da2f811f39cbf8138edf426bc201376e.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/store/c_fcce3266082e72f232b6930875da80be.json" afterPath="$PROJECT_DIR$/cache/store/c_fcce3266082e72f232b6930875da80be.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.php" afterPath="$PROJECT_DIR$/config.php" />
     </list>
     <ignored path="rackcode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -107,33 +49,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="config.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            <state relative-caret-position="112">
+              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding>
-                <element signature="e#7#21#0#PHP" expanded="true" />
+                <element signature="e#6#273#0#PHP" expanded="true" />
+                <element signature="e#275#289#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PruebaController.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PruebaController.php">
+      <file leaf-file-name="GitHubRemoteRepository.php" pinned="false" current-in-tab="false">
+        <entry file="phar://$PROJECT_DIR$/sami.phar/Sami/RemoteRepository/GitHubRemoteRepository.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            <state relative-caret-position="231">
+              <caret line="17" column="27" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <file leaf-file-name="Controller.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Controller.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1088">
-              <caret line="64" column="21" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
+            <state relative-caret-position="170">
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -149,11 +92,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MovieController.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MovieController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/MovieController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+            <state relative-caret-position="187">
+              <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FrontController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/FrontController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -184,10 +137,10 @@
         <option value="$PROJECT_DIR$/resources/views/contacto.php" />
         <option value="C:/wamp64/bin/php/php5.6.16/php.ini-development" />
         <option value="$PROJECT_DIR$/path.php" />
-        <option value="$PROJECT_DIR$/config.php" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/Front/index.html" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/MovieController.php" />
+        <option value="$PROJECT_DIR$/config.php" />
       </list>
     </option>
   </component>
@@ -395,16 +348,16 @@
       <workItem from="1460939717548" duration="4751000" />
       <workItem from="1460994480704" duration="832000" />
       <workItem from="1461079706181" duration="54000" />
-      <workItem from="1461081874822" duration="14000" />
+      <workItem from="1461081874822" duration="1140000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40129000" />
+    <option name="totallyTimeSpent" value="41255000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16944024" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -413,7 +366,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11764706" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11764706" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -442,21 +395,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/MovieController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PruebaController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/FrontController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -646,13 +584,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Controller.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Front/reviews.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -702,13 +633,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/FrontController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/api/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -755,28 +679,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="e#7#21#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PruebaController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1088">
-          <caret line="64" column="21" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
+        <state relative-caret-position="85">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -789,11 +695,62 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/FrontController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PruebaController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/MovieController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        <state relative-caret-position="187">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="phar://$PROJECT_DIR$/sami.phar/Sami/RemoteRepository/GitHubRemoteRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#273#0#PHP" expanded="true" />
+            <element signature="e#275#289#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
