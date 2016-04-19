@@ -35,7 +35,6 @@ $versions = GitVersionCollection::create($dir)
 ;
 
 return new Sami($iterator, array(
-    'theme'                => 'symfony',
     'versions'             => $versions,
     'title'                => 'Symfony2 API',
     'build_dir'            => __DIR__.'/../build/sf2/%version%',
