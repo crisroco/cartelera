@@ -37,8 +37,8 @@ $versions = GitVersionCollection::create($dir)
 return new Sami($iterator, array(
     'versions'             => $versions,
     'title'                => 'Symfony2 API',
-    'build_dir'            => __DIR__.'/../build/sf2/%version%',
-    'cache_dir'            => __DIR__.'/../cache/sf2/%version%',
+    'build_dir'            => __DIR__.'/API/build/%version%',
+    'cache_dir'            => __DIR__.'/API/cache/%version%',
     'remote_repository'    => new GitHubRemoteRepository('crisroco/cartelera', dirname($dir)),
     'default_opened_level' => 2,
 ));
