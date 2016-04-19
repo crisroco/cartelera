@@ -8,7 +8,7 @@
     "namespace": "App\\Http\\Controllers",
     "file": "app\\Http\\Controllers\\MovieController.php",
     "relative_file": null,
-    "hash": "2bc7b341dc150f0c62e4f04cf952c2d245c38646",
+    "hash": "4518764e8b25edc2023f7cc2ab4584826c131483",
     "parent": "App\\Http\\Controllers\\Controller",
     "modifiers": "Stmt_Class",
     "is_trait": false,
@@ -26,7 +26,7 @@
             "name": "index",
             "line": 16,
             "short_desc": "Display a listing of the resource.",
-            "long_desc": "",
+            "long_desc": "this is a test",
             "hint": [
                 [
                     "\\Illuminate\\Http\\Response",

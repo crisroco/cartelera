@@ -8,7 +8,7 @@
     "namespace": "App\\Http\\Controllers",
     "file": "app\\Http\\Controllers\\FrontController.php",
     "relative_file": null,
-    "hash": "a2f5dc752db70c4babbea0da5b4bed277b37c5e5",
+    "hash": "2806d66047a3f930ea08339fc935044a654b3585",
     "parent": "App\\Http\\Controllers\\Controller",
     "modifiers": "Stmt_Class",
     "is_trait": false,

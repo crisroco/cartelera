@@ -8,7 +8,7 @@
     "namespace": "App",
     "file": "app\\User.php",
     "relative_file": null,
-    "hash": "e892c3a64aa6ba6e436db9ff11a628c2c16fac19",
+    "hash": "3e9459d7bcde5931d6cf589c1357a643a5836351",
     "parent": "Illuminate\\Foundation\\Auth\\User",
     "modifiers": "Stmt_Class",
     "is_trait": false,

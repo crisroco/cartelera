@@ -8,7 +8,7 @@
     "namespace": "App\\Http\\Controllers",
     "file": "app\\Http\\Controllers\\Controller.php",
     "relative_file": null,
-    "hash": "4baf025e1a0ebacffd5a5f5eec090fd3fd185dd4",
+    "hash": "7a7971209b3cba65800a48064205277676f885e8",
     "parent": "Illuminate\\Routing\\Controller",
     "modifiers": "Stmt_Class",
     "is_trait": false,

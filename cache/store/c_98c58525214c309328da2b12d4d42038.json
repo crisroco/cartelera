@@ -8,7 +8,7 @@
     "namespace": "App\\Providers",
     "file": "app\\Providers\\AuthServiceProvider.php",
     "relative_file": null,
-    "hash": "458c343a1b8855fe7e61008f478ef563e478aa13",
+    "hash": "c28cddb8b2c7a538ba5cbd8c3d2766c16392c088",
     "parent": "Illuminate\\Foundation\\Support\\Providers\\AuthServiceProvider",
     "modifiers": "Stmt_Class",
     "is_trait": false,

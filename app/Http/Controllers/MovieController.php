@@ -10,7 +10,7 @@ class MovieController extends Controller
 {
     /**
      * Display a listing of the resource.
-     *
+     *  this is a test
      * @return \Illuminate\Http\Response
      */
     public function index()

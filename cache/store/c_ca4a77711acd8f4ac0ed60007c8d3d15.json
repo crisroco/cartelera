@@ -8,7 +8,7 @@
     "namespace": "App\\Http\\Controllers\\Auth",
     "file": "app\\Http\\Controllers\\Auth\\AuthController.php",
     "relative_file": null,
-    "hash": "2c7c63a3147fbe778c4e1394b4960b8750b17b0c",
+    "hash": "1380c9248b9b74fc8c15e54a9dc5af0985b53134",
     "parent": "App\\Http\\Controllers\\Controller",
     "modifiers": "Stmt_Class",
     "is_trait": false,

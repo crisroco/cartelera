@@ -8,7 +8,7 @@
     "namespace": "App\\Http",
     "file": "app\\Http\\Kernel.php",
     "relative_file": null,
-    "hash": "cf902993a9a125494a75be581f333f6d538c010f",
+    "hash": "9bb9072bb0b1abb36b4907f7dcf190066a6ce7a5",
     "parent": "Illuminate\\Foundation\\Http\\Kernel",
     "modifiers": "Stmt_Class",
     "is_trait": false,

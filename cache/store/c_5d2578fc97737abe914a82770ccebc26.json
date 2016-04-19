@@ -8,7 +8,7 @@
     "namespace": "App",
     "file": "app\\Movie.php",
     "relative_file": null,
-    "hash": "462937325cecd3d249d87c8439abbfb60fe25571",
+    "hash": "1512b83697c6df5d8b1b6f6ac60b5828c3a914fb",
     "parent": "Illuminate\\Database\\Eloquent\\Model",
     "modifiers": "Stmt_Class",
     "is_trait": false,
