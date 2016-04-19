@@ -19,6 +19,7 @@ use Sami\RemoteRepository\GitHubRemoteRepository;
 use Sami\Version\GitVersionCollection;
 use Symfony\Component\Finder\Finder;
 
+// esta huevada
 $iterator = Finder::create()
     ->files()
     ->name('*.php')
